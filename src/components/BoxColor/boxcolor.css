@@ -1,0 +1,8 @@
+.box-color {
+    
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+}
